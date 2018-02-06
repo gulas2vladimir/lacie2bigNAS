@@ -13,3 +13,4 @@ vi /usr/local/twonkymedia/resources/views/view-definitions.xml
 add after albumart='1'
 sortcriteria='+pv:numberOfThisDisc,+upnp:originalTrackNumber'
 ```
+restart service via WEBUI
