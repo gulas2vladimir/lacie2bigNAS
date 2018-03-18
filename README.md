@@ -11,6 +11,6 @@ vi /usr/local/twonkymedia/resources/views/view-definitions.xml
 ```
 <container name='byfolder'...
 add after albumart='1'
-sortcriteria='+pv:numberOfThisDisc,+upnp:originalTrackNumber'
+sortcriteria='+pv:numberOfThisDisc,+upnp:originalTrackNumber,+dc:title'
 ```
 restart service via WEBUI
