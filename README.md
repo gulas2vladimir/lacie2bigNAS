@@ -1,5 +1,4 @@
-# lacie2bigNAS
-
+# lacie2bigNAS - Sorting media by track name
 ```
 mount -o remount,rw /
 ```
